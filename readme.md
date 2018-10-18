@@ -1,5 +1,7 @@
 ## 支付宝小程序 富文本解析组件
 
+项目地址：[https://github.com/yaoshanliang/wxParse](https://github.com/yaoshanliang/wxParse)
+
 基于 [wxParse-微信小程序富文本解析自定义组件](https://github.com/icindy/wxParse)
 
 
